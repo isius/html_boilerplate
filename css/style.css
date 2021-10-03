@@ -1,0 +1,13 @@
+body {
+	min-height:100vh;
+	margin:0;
+	display:grid;
+	justify-content:center;
+	align-content:center;
+	background-color:#fff;
+	background-image:url("/img/background.jpg");
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	font-family:"system-ui", "Arial";
+}
